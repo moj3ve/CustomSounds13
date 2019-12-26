@@ -1,0 +1,10 @@
+Package: fun.tylerd3v.customsounds13
+Name: CustomSounds13
+Depends: mobilesubstrate, firmware (>=13.0), ws.hbang.common (>=1.14), com.creaturecoding.libcspreferences (>=1.2.0)
+Architecture: iphoneos-arm
+Description: Custom System Sounds on iOS 13!
+Maintainer: TylerD3V
+Author: TylerD3V
+Section: Tweaks
+Version: 1.0
+Installed-Size: 4552
